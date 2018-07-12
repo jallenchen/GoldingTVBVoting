@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clickable="true" >
+
+    <RelativeLayout
+        android:id="@+id/head_fl"
+        android:layout_width="match_parent"
+        android:layout_above="@+id/ll"
+        android:layout_height="wrap_content" >
+
+        <ImageView
+            android:id="@+id/head"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerInside"/>
+
+        <TextView
+            android:id="@+id/index"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10px"
+            android:background="@drawable/r_green"
+            android:gravity="center"
+            android:textColor="@color/color_white"
+            android:textSize="28sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+    <LinearLayout
+        android:id="@+id/ll"
+        android:layout_width="match_parent"
+        android:layout_height="205px"
+        android:background="@color/color_white"
+        android:layout_above="@+id/bottom_ll"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/ll1"
+            android:layout_width="match_parent"
+            android:layout_height="50px"
+            android:layout_weight="1"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/type1"
+                android:layout_width="153px"
+                android:layout_height="match_parent"
+                android:background="@drawable/score_r_bg"
+                android:gravity="center"
+                android:textColor="@color/color_white"
+                android:textSize="24sp" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
+
+                <EditText
+                    android:id="@+id/scoring1"
+                    android:layout_width="260px"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/score_g_bg"
+                    android:gravity="center"
+                    android:hint="-"
+                    android:inputType="number"
+                    android:maxLength="3"
+                    android:textSize="24sp"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/check1"
+                    android:layout_width="67px"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:background="@drawable/check_bg"
+                    android:button="@null"
+                    android:clickable="false" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll2"
+            android:layout_width="match_parent"
+            android:layout_height="50px"
+            android:layout_marginTop="1px"
+            android:layout_weight="1"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/type2"
+                android:layout_width="153px"
+                android:layout_height="match_parent"
+                android:background="@drawable/score_r_bg"
+                android:gravity="center"
+                android:textColor="@color/color_white"
+                android:textSize="24sp" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
+
+                <EditText
+                    android:id="@+id/scoring2"
+                    android:layout_width="260px"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/score_g_bg"
+                    android:gravity="center"
+                    android:hint="-"
+                    android:inputType="number"
+                    android:maxLength="3"
+                    android:textSize="24sp"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/check2"
+                    android:layout_width="67px"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:background="@drawable/check_bg"
+                    android:button="@null"
+                    android:clickable="false" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll3"
+            android:layout_width="match_parent"
+            android:layout_height="50px"
+            android:layout_marginTop="1px"
+            android:layout_weight="1"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/type3"
+                android:layout_width="153px"
+                android:layout_height="match_parent"
+                android:background="@drawable/score_r_bg"
+                android:gravity="center"
+                android:textColor="@color/color_white"
+                android:textSize="24sp" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
+
+                <EditText
+                    android:id="@+id/scoring3"
+                    android:layout_width="260px"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/score_g_bg"
+                    android:gravity="center"
+                    android:hint="-"
+                    android:inputType="number"
+                    android:maxLength="3"
+                    android:textSize="24sp"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/check3"
+                    android:layout_width="67px"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:background="@drawable/check_bg"
+                    android:button="@null"
+                    android:clickable="false" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll4"
+            android:layout_width="match_parent"
+            android:layout_height="50px"
+            android:layout_marginTop="1px"
+            android:layout_weight="1"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/type4"
+                android:layout_width="153px"
+                android:layout_height="match_parent"
+                android:background="@drawable/score_r_bg"
+                android:gravity="center"
+                android:textColor="@color/color_white"
+                android:textSize="24sp" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
+
+                <EditText
+                    android:id="@+id/scoring4"
+                    android:layout_width="260px"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/score_g_bg"
+                    android:gravity="center"
+                    android:hint="-"
+                    android:inputType="number"
+                    android:maxLength="3"
+                    android:textSize="24sp"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/check4"
+                    android:layout_width="67px"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:background="@drawable/check_bg"
+                    android:button="@null"
+                    android:clickable="false" />
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+    <include
+        android:id="@+id/bottom_ll"
+        layout="@layout/bottom_button"
+        />
+
+</RelativeLayout>

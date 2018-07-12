@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="female_score">
+        <item>Beauty</item>
+        <item>Deportment</item>
+        <item>Reaction</item>
+        <item>Conversation</item>
+    </string-array>
+    <string-array name="male_score">
+        <item>Vocal</item>
+        <item>Stage</item>
+        <item>Skill</item>
+        <item>Image</item>
+    </string-array>
+
+</resources>

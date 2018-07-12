@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="female_score">
+        <item>美貌</item>
+        <item>談吐</item>
+        <item>形象</item>
+        <item>表現</item>
+    </string-array>
+    <string-array name="male_score">
+        <item>聲音</item>
+        <item>颱風</item>
+        <item>技巧</item>
+        <item>形象</item>
+    </string-array>
+
+</resources>

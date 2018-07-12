@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="20px"
+    android:layout_marginTop="10px"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/set_confirm"
+        android:layout_width="200px"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5px"
+        android:layout_marginStart="200px"
+        android:background="@color/color_blue"
+        android:textSize="28sp"
+        android:text="@string/set_confirm" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="28sp"
+        android:text="@string/set_seat" />
+
+    <EditText 
+        android:id="@+id/edit_seat"
+        android:layout_width="400px"
+        android:layout_height="60px"
+        android:maxLines="1"
+        android:textSize="24sp"
+        android:background="@drawable/edittext_bg"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="28sp"
+        android:layout_marginTop="20px"
+        android:text="@string/set_ip" />
+
+    <EditText 
+        android:id="@+id/edit_ip"
+        android:layout_width="400px"
+        android:layout_height="60px"
+        android:maxLines="1"
+        android:textSize="24sp"
+        android:enabled="false"
+        android:background="@drawable/edittext_bg"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="28sp"
+        android:layout_marginTop="20px"
+        android:text="@string/set_port" />
+
+    <EditText 
+        android:id="@+id/edit_port"
+        android:layout_width="400px"
+        android:layout_height="60px"
+        android:maxLines="1"
+        android:textSize="24sp"
+        android:inputType="number"
+        android:enabled="false"
+        android:background="@drawable/edittext_bg"/>
+
+    <TextView
+        android:id="@+id/version"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20px"/>
+
+</LinearLayout>

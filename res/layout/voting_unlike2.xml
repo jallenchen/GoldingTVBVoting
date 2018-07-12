@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clickable="true" >
+
+    <RelativeLayout
+        android:id="@+id/head_fl"
+        android:layout_width="match_parent"
+        android:layout_height="400px">
+
+        <ImageView
+            android:id="@+id/head"
+            android:layout_width="match_parent"
+            android:scaleType="centerInside"
+            android:layout_height="400px"/>
+
+        <TextView
+            android:id="@+id/index"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10px"
+            android:background="@drawable/r_red"
+            android:gravity="center"
+            android:textColor="@color/color_white"
+            android:textSize="28sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/head_fl"
+        android:background="@color/color_white"
+        android:orientation="vertical"
+        >
+          <TextView
+              android:id="@+id/chooseNote"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/choose_note"
+            android:textSize="18sp"
+            android:layout_margin="2dp"
+            />
+        
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+        
+        <com.golding.tvbvotingsystem.ui.MyImageButton
+            android:id="@+id/like_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/like_check_l_bg"/>
+        <com.golding.tvbvotingsystem.ui.MyImageButton
+            android:id="@+id/unlike_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/unlike_check_l_bg"
+            android:layout_marginLeft="51px" />
+    </LinearLayout>
+   </LinearLayout>
+    <include
+        android:id="@+id/bottom_ll"
+        layout="@layout/bottom_button"
+        />
+</RelativeLayout>

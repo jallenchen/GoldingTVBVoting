@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="119px"
+    android:orientation="horizontal" >
+
+    <TextView
+        android:id="@+id/index"
+        android:layout_width="50px"
+        android:layout_height="match_parent"
+        android:background="@drawable/index_gray"
+        android:gravity="center"
+        android:textColor="@color/color_white"
+        android:textStyle="bold"
+        android:textSize="14sp" />
+
+    <ImageView
+        android:id="@+id/head"
+        android:layout_width="143px"
+        android:scaleType="centerInside"
+        android:layout_height="match_parent" />
+
+    <com.golding.tvbvotingsystem.ui.MyImageButton
+        android:id="@+id/check"
+        android:layout_width="220px"
+        android:layout_height="119px"
+        android:layout_gravity="center_vertical"
+        android:background="@drawable/item_bg"
+        android:src="@drawable/promote_s_bg" />
+    
+    <com.golding.tvbvotingsystem.ui.MyImageButton
+        android:id="@+id/allow"
+        android:layout_width="67px"
+        android:layout_height="119px"
+        android:layout_gravity="center_vertical"
+        android:background="@drawable/allow_bg" />
+    
+    
+
+</LinearLayout>

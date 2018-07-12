@@ -1,0 +1,147 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:2:1-60:12
+INJECTED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:2:1-60:12
+INJECTED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:2:1-60:12
+INJECTED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:2:1-60:12
+INJECTED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:2:1-60:12
+INJECTED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:2:1-60:12
+INJECTED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:2:1-60:12
+	package
+		ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:3:5-42
+		INJECTED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml
+		INJECTED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml
+	android:sharedUserId
+		ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:6:5-46
+	android:versionName
+		ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:5:5-39
+		INJECTED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml
+		INJECTED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:4:5-28
+		INJECTED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml
+		INJECTED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:12:22-77
+uses-permission#android.permission.INTERNET
+ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:14:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:16:22-73
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:17:5-75
+	android:name
+		ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:17:22-72
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:18:5-73
+	android:name
+		ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:18:22-70
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:19:22-76
+application
+ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:21:5-58:19
+	android:label
+		ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:26:9-41
+	android:largeHeap
+		ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:24:9-33
+	android:icon
+		ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:25:9-45
+	android:allowBackup
+		ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:23:9-35
+	android:theme
+		ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:27:9-40
+	android:name
+		ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:22:9-64
+activity#com.golding.tvbvotingsystem.TVBLogoActivity
+ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:29:9-40:20
+	android:screenOrientation
+		ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:31:13-49
+	android:theme
+		ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:32:13-81
+	android:name
+		ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:30:13-71
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.HOME+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.MONKEY
+ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:33:13-39:29
+category#android.intent.category.LAUNCHER
+ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:34:27-74
+action#android.intent.action.MAIN
+ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:35:25-66
+category#android.intent.category.HOME
+ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:36:17-73
+	android:name
+		ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:36:27-70
+category#android.intent.category.DEFAULT
+ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:37:17-76
+	android:name
+		ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:37:27-73
+category#android.intent.category.MONKEY
+ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:38:17-75
+	android:name
+		ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:38:27-72
+activity#com.golding.tvbvotingsystem.TVBBaseActivity
+ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:42:9-43:73
+	android:name
+		ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:43:13-71
+activity#com.golding.tvbvotingsystem.TVBVotingActivity
+ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:44:9-49:84
+	android:screenOrientation
+		ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:46:13-49
+	android:launchMode
+		ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:47:13-43
+	android:windowSoftInputMode
+		ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:48:13-55
+	android:theme
+		ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:49:13-81
+	android:name
+		ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:45:13-73
+activity#com.golding.tvbvotingsystem.TVBSettingActivity
+ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:51:10-54:84
+	android:screenOrientation
+		ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:53:13-49
+	android:theme
+		ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:54:13-81
+	android:name
+		ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:52:13-74
+service#com.golding.tvbvotingsystem.socket.SocketService
+ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:56:6-80
+	android:name
+		ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml:56:15-78
+uses-sdk
+INJECTED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml
+INJECTED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml
+INJECTED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml
+INJECTED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml
+		ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml
+		INJECTED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml
+		ADDED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml
+		INJECTED from D:\Jallen\TVB\TVBSystemCode\GoldingTVBVoting\AndroidManifest.xml

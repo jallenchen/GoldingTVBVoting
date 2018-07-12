@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="female_score">
+        <item>美貌</item>
+        <item>谈吐</item>
+        <item>形象</item>
+        <item>表现</item>
+    </string-array>
+    <string-array name="male_score">
+        <item>Vocal</item>
+        <item>Stage</item>
+        <item>Skill</item>
+        <item>Image</item>
+    </string-array>
+
+    <string-array name="permissions">
+        <item>@string/permission_camera_hint</item>
+        <item>@string/permission_read_external_hint</item>
+        <item>@string/permission_write_external_hint</item>
+    </string-array>
+
+</resources>

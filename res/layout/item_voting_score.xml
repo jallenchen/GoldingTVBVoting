@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="119px"
+    android:orientation="horizontal"
+    android:baselineAligned="false">
+
+    <TextView
+        android:id="@+id/index"
+        android:layout_width="50px"
+        android:layout_height="119px"
+        android:background="@drawable/index_green"
+        android:gravity="center"
+        android:textColor="@color/color_white"
+        android:textStyle="bold"
+        android:textSize="14sp" />
+
+    <ImageView
+        android:id="@+id/head"
+        android:layout_width="143px"
+        android:layout_height="match_parent"
+        android:scaleType="centerInside"/>
+    
+    <LinearLayout 
+        android:layout_width="229px"
+        android:layout_height="119px"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:paddingLeft="5px"
+        android:paddingRight="5px"
+        android:background="@drawable/item_bg"
+        >
+         <TextView
+             android:id="@+id/score1"
+        android:layout_width="0px"
+        android:layout_height="60px"
+        android:gravity="center"
+        android:background="@drawable/white_shap_bg"
+        android:textSize="18sp"
+         android:textColor="@color/color_black"
+         android:textStyle="bold"
+         android:layout_weight="1"/>
+
+        <TextView
+            android:id="@+id/score2"
+            android:layout_width="0px"
+            android:layout_height="60px"
+            android:layout_marginLeft="8px"
+            android:layout_weight="1"
+            android:background="@drawable/white_shap_bg"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textColor="@color/color_black"
+            android:textSize="18sp" />
+
+        <TextView
+                android:id="@+id/score3"
+        android:layout_width="0px"
+        android:layout_height="60px"
+        android:layout_marginLeft="8px"
+        android:gravity="center"
+        android:background="@drawable/white_shap_bg"
+        android:textSize="18sp"
+        android:textColor="@color/color_black"
+        android:textStyle="bold"
+        android:layout_weight="1"
+               />
+            <TextView
+        android:id="@+id/score4"
+        android:layout_width="0px"
+        android:layout_height="60px"
+        android:layout_marginLeft="8px"
+        android:gravity="center"
+        android:background="@drawable/white_shap_bg"
+        android:textSize="18sp"
+        android:textColor="@color/color_black"
+        android:textStyle="bold"
+        android:layout_weight="1"/>
+        
+    </LinearLayout>
+
+
+
+    <ImageView
+        android:id="@+id/allow"
+        android:layout_width="58px"
+        android:layout_height="119px"
+        android:layout_gravity="center_vertical"
+        android:background="@drawable/allow_score_bg"/>
+
+</LinearLayout>

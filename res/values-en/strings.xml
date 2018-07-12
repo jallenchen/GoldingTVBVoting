@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TVB Voting System</string>
+    <string name="voting_system">Smart Voting System</string>
+    <string name="thanks">Thanks for you join</string>
+    <string name="confirm">Confirm</string>
+    <string name="submit">Submit</string>
+    <string name="choose_note">Choose you like!</string>
+    <string name="submit_confirm">Are you sure to Submit？</string>
+    <string name="cancel">Cancel</string>
+    <string name="scoring_error">Score Error,do not submit?</string>
+    <string name="submit_error">Submit Error</string>
+    <string name="submit_sucss">Submit Successfull</string>
+    <string name="psw_error">Password Error</string>
+    <string name="seatnum_error">Seat number Error</string>
+    <string name="ipaddress_error">IP Address Error</string>
+    <string name="not_finish">Voting is not finish,do not submit!</string>
+    <string name="voting_null">No Voting Info！</string>
+    <string name="seatnum_null">Seat number is null</string>
+    <string name="setting_psw">Please input password</string>
+    <string name="seat_num">Please input seat number</string>
+    <string name="score_40_100">40&#8211;100 S</string>
+    <string name="set_seat">Set Seat Number：</string>
+    <string name="set_ip">Set IP：</string>
+    <string name="set_port">Set Port：</string>
+    <string name="check_udpate">Check Update</string>
+    <string name="set_confirm">Finish</string>
+    <string name="voting_limit">over voting person limit！</string>
+    <string name="network_ng">Network is unreachable</string>
+    <string name="connect_server">connecting setver</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TVB投票系统</string>
+    <string name="voting_system">智能投票系统</string>
+    <string name="thanks">谢谢您的参与</string>
+    <string name="confirm">确定</string>
+    <string name="cancel">取消</string>
+
+    <string name="scoring_error">输入有误,是否放弃提交？</string>
+    <string name="submit_error">提交失败</string>
+    <string name="submit_sucss">提交成功</string>
+    <string name="psw_error">密码有误</string>
+    <string name="voting_null">没有投票信息！</string>
+    <string name="seatnum_null">请设置座位号</string>
+    <string name="setting_psw">请输入工程密码</string>
+    <string name="seat_num">请设置座位号</string>
+    <string name="seatnum_error">座位号有误</string>
+    <string name="ipaddress_error">IP地址有误</string>
+    <string name="not_finish">投票未完成，无法提交！</string>
+    <string name="score_40_100">40&#8211;100分</string>
+    <string name="set_seat">设置座位号：</string>
+    <string name="set_ip">设置IP：</string>
+    <string name="set_port">设置端口：</string>
+    <string name="check_udpate">检查升级</string>
+    <string name="set_confirm">设置完成</string>
+    <string name="submit_confirm">你确定要提交吗？</string>
+    <string name="submit">提交</string>
+    <string name="choose_note">选择您的喜好！</string>
+    <string name="voting_limit">超过投票人数上限！</string>
+    <string name="network_ng">网络不通</string>
+    <string name="connect_server">正在连接服务器</string>
+</resources>

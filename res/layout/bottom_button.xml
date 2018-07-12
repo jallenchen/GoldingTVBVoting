@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="70px"
+    android:layout_alignParentBottom="true"
+    android:orientation="horizontal" >
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+    <RadioButton
+        android:id="@+id/eng_btn"
+        android:layout_width="78px"
+        android:button="@null"
+        android:layout_height="match_parent"
+        android:onClick="onChangeLang"
+        android:background="@drawable/eng_bg" />
+
+    <RadioButton
+        android:id="@+id/fan_btn"
+        android:layout_width="78px"
+        android:layout_height="match_parent"
+        android:button="@null"
+        android:layout_marginRight="1dp"
+        android:layout_marginLeft="1dp"
+        android:onClick="onChangeLang"
+        android:background="@drawable/fan_bg"/>
+
+    <RadioButton
+        android:id="@+id/jian_btn"
+        android:layout_width="78px"
+        android:layout_height="match_parent"
+        android:background="@drawable/jian_bg"
+        android:onClick="onChangeLang"
+        android:button="@null"/>
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/confirm_btn"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/btn_bg"
+        android:textColor="@color/color_white"
+        android:textSize="28sp"
+        android:text="@string/confirm" />
+
+</LinearLayout>

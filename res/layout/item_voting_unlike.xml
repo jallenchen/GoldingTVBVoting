@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="119px"
+    android:orientation="horizontal" >
+
+    <TextView
+        android:id="@+id/index"
+        android:layout_width="50px"
+        android:layout_height="match_parent"
+        android:background="@drawable/num_bg"
+        android:gravity="center"
+        android:textColor="@color/color_white"
+        android:textStyle="bold"
+        android:textSize="14sp" />
+    <ImageView
+        android:id="@+id/head"
+         android:layout_width="143px"
+        android:scaleType="centerInside"
+        android:layout_height="match_parent" />
+
+    <LinearLayout
+        android:layout_width="220px"
+        android:layout_height="match_parent"
+        android:background="@drawable/item_bg"
+        android:orientation="horizontal">
+
+        <com.golding.tvbvotingsystem.ui.MyImageButton
+            android:id="@+id/like"
+            android:layout_width="70px"
+            android:layout_height="70px"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="25px"
+            android:background="@drawable/like_check_s_bg" />
+
+        <com.golding.tvbvotingsystem.ui.MyImageButton
+            android:id="@+id/unlike_mib"
+            android:layout_width="70px"
+            android:layout_height="70px"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="30px"
+            android:background="@drawable/unlike_check_s_bg" />
+
+    </LinearLayout>
+
+    
+
+      <com.golding.tvbvotingsystem.ui.MyImageButton
+        android:id="@+id/allow"
+         android:layout_width="67px"
+        android:layout_height="119px"
+        android:layout_gravity="center_vertical"
+        android:background="@drawable/allow_bg" />
+
+</LinearLayout>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_white" >
+
+    <RelativeLayout
+        android:id="@+id/title_bar"
+        android:layout_width="match_parent"
+        android:layout_height="94px"
+        android:background="@drawable/title_bg" >
+
+        <TextView
+            android:id="@+id/tile"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/voting_system"
+            android:textStyle="bold"
+            android:textColor="@color/color_white"
+            android:textSize="40sp" />
+        
+        <ImageButton
+            android:layout_width="37px"
+            android:layout_height="37px"
+            android:background="@null"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="5dp"
+            android:onClick="onSetting"
+            android:padding="10px"
+            android:src="@drawable/setting"
+            />
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/title_bar"
+        android:gravity="center_horizontal"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/net_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="75px"
+            android:textSize="30sp"
+            android:text="@string/network_ng"
+            android:textColor="@color/color_red"/>
+
+        <ImageView
+            android:id="@+id/voting_icon"
+            android:layout_width="match_parent"
+            android:layout_height="280px"
+            android:src="@drawable/bg" />
+
+        <com.golding.tvbvotingsystem.ui.MTextView
+            android:id="@+id/voting_name"
+            android:layout_width="400px"
+            android:layout_height="wrap_content"
+            android:scrollHorizontally="true"
+            android:layout_marginTop="15dp"
+            android:maxHeight="127px"
+            android:singleLine="true"
+            android:ellipsize="marquee"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:gravity="center"
+            android:textSize="34sp" />
+
+        <TextView
+            android:id="@+id/thanks"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50px"
+            android:text="@string/thanks"
+            android:textSize="40sp"
+            android:visibility="invisible" />
+        
+    </LinearLayout>
+    
+    
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="56px"
+        android:src="@drawable/tvb_logo" />
+
+</RelativeLayout>

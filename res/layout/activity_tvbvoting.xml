@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/color_white"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:id="@+id/title_rl"
+            android:layout_width="match_parent"
+            android:layout_height="100px" >
+
+            <ImageView
+                android:id="@+id/voting_logo"
+                android:layout_width="200px"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"
+                />
+
+            <ImageView
+                android:layout_width="120px"
+                android:layout_height="50px"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="15px"
+                android:background="@drawable/tvb_logo_s"
+                android:layout_toLeftOf="@+id/voting_time" />
+
+            <TextView
+                android:id="@+id/voting_time"
+                android:layout_width="100px"
+                android:layout_height="50px"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10px"
+                android:background="@drawable/timer_bg"
+                android:gravity="center"
+                android:textColor="@color/color_white"
+                android:textSize="24sp" />
+        </RelativeLayout>
+
+    <com.golding.tvbvotingsystem.ui.MTextView
+        android:id="@+id/voting_name"
+        android:layout_width="match_parent"
+        android:layout_height="60px"
+        android:gravity="center_vertical"
+        android:scrollHorizontally="true"
+        android:paddingLeft="30px"
+        android:singleLine="true"
+        android:ellipsize="marquee"
+        android:background="@drawable/line_1"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:textSize="30sp" />
+
+
+    <com.golding.tvbvotingsystem.ui.MTextView
+        android:id="@+id/voting_circle"
+        android:layout_width="match_parent"
+        android:layout_height="40px"
+        android:gravity="center_vertical"
+        android:scrollHorizontally="true"
+        android:paddingLeft="20px"
+        android:singleLine="true"
+        android:background="@drawable/line_2"
+        android:ellipsize="marquee"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:textColor="@color/color_white"
+        android:textSize="20sp" />
+
+        <FrameLayout
+            android:id="@+id/container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+        </FrameLayout>
+    </LinearLayout>

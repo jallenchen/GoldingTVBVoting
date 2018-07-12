@@ -1,0 +1,366 @@
+[
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable_allow_bg.xml.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable\\allow_bg.xml"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_eng_normal.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\eng_normal.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wrong_l.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\wrong_l.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wrong_s.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\wrong_s.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_index_blue.jpg.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\index_blue.jpg"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\layout_voting_promote2.xml.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\layout\\voting_promote2.xml"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable_like_l_bg.xml.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable\\like_l_bg.xml"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\layout_base_list.xml.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\layout\\base_list.xml"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable_gray_shap_bg.xml.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable\\gray_shap_bg.xml"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_line_1.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\line_1.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_index_orange.jpg.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\index_orange.jpg"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_arrow_score_right.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\arrow_score_right.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable_btn_bg.xml.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable\\btn_bg.xml"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable_unlike_check_s_bg.xml.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable\\unlike_check_s_bg.xml"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_r_orange.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\r_orange.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fan_normal.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\fan_normal.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tvb_logo.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\tvb_logo.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\layout_voting_unlike2.xml.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\layout\\voting_unlike2.xml"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\layout_activity_tvblogo.xml.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\layout\\activity_tvblogo.xml"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_checked.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\checked.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_index_gray.jpg.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\index_gray.jpg"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable_allow_score_bg.xml.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable\\allow_score_bg.xml"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\layout_voting_like2.xml.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\layout\\voting_like2.xml"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\layout_item_voting_like.xml.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\layout\\item_voting_like.xml"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_score_bg.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\score_bg.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_item_bg.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\item_bg.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_r_red.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\r_red.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable_promote_s_bg.xml.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable\\promote_s_bg.xml"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_right_check_l.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\right_check_l.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_score_g_bg.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\score_g_bg.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable_like_check_s_bg.xml.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable\\like_check_s_bg.xml"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_r_blue.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\r_blue.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable_promote_l_bg.xml.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable\\promote_l_bg.xml"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable_white_shap_bg.xml.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable\\white_shap_bg.xml"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\layout_item_voting_unlike.xml.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\layout\\item_voting_unlike.xml"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_right_check_s.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\right_check_s.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable_like_s_bg.xml.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable\\like_s_bg.xml"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_num_bg.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\num_bg.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\bg.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_arrow_left_blue.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\arrow_left_blue.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_right_s.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\right_s.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\layout_voting_score2.xml.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\layout\\voting_score2.xml"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_round.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\round.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_eng_check.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\eng_check.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_promote_checked_s.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\promote_checked_s.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable_check_bg2.xml.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable\\check_bg2.xml"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fan_check.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\fan_check.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_jian_check.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\jian_check.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tvb_logo_s.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\tvb_logo_s.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_like_on_l.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\like_on_l.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable_eng_bg.xml.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable\\eng_bg.xml"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_promote_checked_l.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\promote_checked_l.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_right_l.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\right_l.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\layout_toast.xml.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\layout\\toast.xml"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_s.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\icon_s.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_like_on_s.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\like_on_s.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable_jian_bg.xml.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable\\jian_bg.xml"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_uncheck.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\uncheck.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\layout_item_voting_score.xml.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\layout\\item_voting_score.xml"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_edittext_bg.9.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\edittext_bg.9.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\layout_bottom_button.xml.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\layout\\bottom_button.xml"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_normal.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\btn_normal.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_r_green.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\r_green.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_title_bg.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\title_bg.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\layout_activity_tvbvoting.xml.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\layout\\activity_tvbvoting.xml"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\layout_item_voting_promote.xml.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\layout\\item_voting_promote.xml"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable_check_bg.xml.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable\\check_bg.xml"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wrong_check_s.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\wrong_check_s.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\layout_dialog_submit.xml.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\layout\\dialog_submit.xml"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_arrow_right_gray.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\arrow_right_gray.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable_like_check_l_bg.xml.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable\\like_check_l_bg.xml"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable_fan_bg.xml.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable\\fan_bg.xml"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_like_off_s.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\like_off_s.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_line_2.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\line_2.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable_unlike_check_l_bg.xml.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable\\unlike_check_l_bg.xml"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_checked2.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\checked2.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_timer_bg.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\timer_bg.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_promote_normal_l.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\promote_normal_l.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_uncheck2.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\uncheck2.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wrong_check_l.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\wrong_check_l.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\layout_dialog_setting_psw.xml.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\layout\\dialog_setting_psw.xml"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_arrow_score_left.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\arrow_score_left.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\layout_activity_tvbsetting.xml.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\layout\\activity_tvbsetting.xml"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_promote_normal_s.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\promote_normal_s.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setting.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\setting.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_jian_normal.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\jian_normal.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_index_green.jpg.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\index_green.jpg"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_like_off_l.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\like_off_l.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_score_r_bg.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\score_r_bg.png"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\layout_dialog_setting_seatnum.xml.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\layout\\dialog_setting_seatnum.xml"
+    },
+    {
+        "merged": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_pressed.png.flat",
+        "source": "D:\\Jallen\\TVB\\TVBSystemCode\\GoldingTVBVoting\\res\\drawable-hdpi\\btn_pressed.png"
+    }
+]
