@@ -35,31 +35,15 @@ public class CheckVersionTask  implements Runnable{
     public CheckVersionTask(Context ct,Upgrade.CUpgrade upgradeInfo) {
         mContext = ct;
         mUpgradeInfo = upgradeInfo;
+		isDownLoad = true;
     }
 
     public void run() {
         try {
-            if(mUpgradeInfo.getUpdateType().equals("apk")){
-                Log.d(TAG,"版本号："+mUpgradeInfo.getVersion()+"="+Utils.getAppVersionName(mContext));
-                if(mUpgradeInfo.getVersion().equals(Utils.getAppVersionName(mContext))){
-                    Log.d(TAG,"版本号相同无需升级");
-                }else{
-                    Message msg = new Message();
-                    msg.what = UPDATA_CLIENT;
-                    msg.obj = mUpgradeInfo.getDownloadUrl();
-                    handler.sendMessage(msg);
-                }
-            }else  if(mUpgradeInfo.getUpdateType().equals("system")){
-                Log.d(TAG,"版本号："+mUpgradeInfo.getVersion()+"="+Utils.getSysOsVersion());
-                if(mUpgradeInfo.getVersion().equals(Utils.getSysOsVersion())){
-                    Log.d(TAG,"版本号相同无需升级");
-                }else{
-                    Message msg = new Message();
-                    msg.what = UPDATA_CLIENT;
-                    msg.obj = mUpgradeInfo.getDownloadUrl();
-                    handler.sendMessage(msg);
-                }
-            }
+            Message msg = new Message();
+            msg.what = UPDATA_CLIENT;
+            msg.obj = mUpgradeInfo.getDownloadUrl();
+            handler.sendMessage(msg);
         } catch (Exception e) {
             e.printStackTrace();
             Message msg = new Message();
@@ -76,12 +60,8 @@ public class CheckVersionTask  implements Runnable{
             super.handleMessage(msg);
             switch (msg.what) {
                 case UPDATA_CLIENT:
-                    //直接下载APK
                     String url = (String) msg.obj;
-                    Log.d(TAG,"下载新版中:"+isDownLoad+":"+url);
-                    if(!isDownLoad){
-                        downLoadFile(url);
-                    }
+                    downLoadFile(url);
                     break;
                 case UPDATA_ERROR:
                     //服务器超时
@@ -113,16 +93,17 @@ public class CheckVersionTask  implements Runnable{
             @Override
             public void run() {
                 try {
-                    isDownLoad = true;
                     File file;
                     if(url.contains(".zip")){
                         file = Utils.getFileFromServer(url, pd,"update.zip");
                         sleep(3000);
                         updateSystem(file);
+						isDownLoad = false;
                     }else{
                         file = Utils.getFileFromServer(url, pd,"GoldingTVBVoting.apk");
                         sleep(3000);
                         installApk(file);
+						isDownLoad = false;
                     }
                     pd.dismiss(); //结束掉进度条对话框
                 } catch (Exception e) {
@@ -133,7 +114,7 @@ public class CheckVersionTask  implements Runnable{
                     msg.what = DOWNLOAD_ERROR;
                     handler.sendMessage(msg);
                 }
-                isDownLoad = false;
+                
             }}.start();
     }
 
