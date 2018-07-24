@@ -216,12 +216,38 @@ public class SocketService extends Service implements HandlerUtils.OnReceiveMess
 			break;
 		}
 	}
+	
+	private String updateMd5="";
 
 	/**
 	 * 升级更新
 	 */
 	private void paeseUpgrade(byte[] data) throws Exception{
 		CUpgrade upgradeInfo = CUpgrade.parseFrom(data);
+	
+		//判断发送的apk版本是否一样
+		 if(mUpgradeInfo.getUpdateType().equals("apk")
+			 && mUpgradeInfo.getVersion().equals(Utils.getAppVersionName(TVBLogoActivity.mInstance))){
+				  Log.d(TAG,"版本号相同无需升级");
+				 return;
+		 }
+		 
+		 //判断发送的系统版本是否一样
+		  if(mUpgradeInfo.getUpdateType().equals("system")
+			 && mUpgradeInfo.getVersion().equals(Utils.getSysOsVersion())){
+				  Log.d(TAG,"版本号相同无需升级");
+				 return;
+		 }
+		 
+		 //判断发送过来的升级文件的md5是否和上一次发送的一致
+		if(mUpgradeInfo.getMD5().equals(updateMd5)){
+			 Log.d(TAG,"MD5相同无需处理");
+			return;
+		}else{
+			updateMd5 = mUpgradeInfo.getMD5();
+		}
+		
+		//判断是否已经在下载中
 		if(CheckVersionTask.isDownLoad){
 			Utils.PrintLogD("paeseUpgrade","new version id downloading");
 			return;
