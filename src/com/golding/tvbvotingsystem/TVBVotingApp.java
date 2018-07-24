@@ -81,15 +81,24 @@ public class TVBVotingApp extends Application {
 		}
 	};
 
+	private int waitCnt = 0;
 	public IGoldingSysService getIgoldingSysService(){
 		if(IgoldingSysService == null){
 			startAidlService();
 		}
-		try {
-			Thread.sleep(5000);  //wait connect finish
-		} catch (InterruptedException e) {
+		while(IgoldingSysService == null){
+			try {
+			Thread.sleep(3000);  //wait connect finish
+			} catch (InterruptedException e) {
 			e.printStackTrace();
+			}
+			if(waitCnt >3){
+				waitCnt = 0;
+				break;
+			}
+		
 		}
+		
 		return IgoldingSysService;
 	}
 	
